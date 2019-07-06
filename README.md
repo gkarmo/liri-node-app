@@ -8,7 +8,7 @@ LIRI's Need
   - Liri is here to provide users with the oppertunity to search for their upcoming concerts, favourite movies and spotify songs. All       along with providing them with suggestion to other options if they get stuck.
 
 LIRI's Objective
-  Provide it's user with the oppertunity to search for concerts, movies, spotify songs, random (do-what-it-says) commands.
+  - Provide it's user with the oppertunity to search for concerts, movies, spotify songs, random (do-what-it-says) commands.
   - concert's providing
        * venue's name. 
        * location. 
