@@ -1,0 +1,46 @@
+Movie Name: Bad Boys
+
+Movie Year: 1995
+
+IMDB Rating: 6.9/10
+
+Rotten Tomatoes Rating: 42%
+
+Country: USA
+
+Language: English
+
+Plot: Two hip detectives protect a witness to a murder while investigating a case of stolen heroin from the evidence storage room from their police precinct.
+
+Actors: Lisa Boyle, Michael Taliferro, Emmanuel Xuereb, Tchéky Karyo
+---------------------------------------------------------------------------------------------------------------------------
+Movie Name: Chicken Little
+
+Movie Year: 2005
+
+IMDB Rating: 5.8/10
+
+Rotten Tomatoes Rating: 37%
+
+Country: USA
+
+Language: English
+
+Plot: After ruining his reputation with the town, a courageous chicken must come to the rescue of his fellow citizens when aliens start an invasion.
+
+Actors: Zach Braff, Garry Marshall, Don Knotts, Patrick Stewart
+---------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Openair Frauenfeld
+
+Concert Location: Frauenfeld, Switzerland
+
+Concert Date: 2019-07-11T19:00:22
+---------------------------------------------------------------------------------------------------------------------------
+Artist: Crime Mob
+
+Song: Knuck If You Buck (feat. Lil' Scrappy)
+
+Sample: https://p.scdn.co/mp3-preview/c0e70d237237fc13176f67ed6fa5dc296abe098c?cid=404dc512f9cd45d99fba00219b780c28
+
+Album: Crime Mob (U.S. PA Version)
+---------------------------------------------------------------------------------------------------------------------------
